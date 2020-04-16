@@ -31,7 +31,7 @@
     "fortnite": "^4.1.1",
     "fs": "0.0.1-security",
     "ms": "^2.1.1",
-    "request": "^2.87.0",
+    "request": "^2.88.2",
     "superagent": "^3.8.3"
   }
 }
